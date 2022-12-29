@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size:24px;
+}
+.container{
+    width:50%;
+    margin: auto;
+}
+.row{
+    margin: 50px 0 0;
+}
+input{
+    width:60%;
+    padding:8px;
+}
+input:focus{
+    outline: 0;
+}
+label{
+    width:40%;
+}
+button{
+    padding:8px;
+}
